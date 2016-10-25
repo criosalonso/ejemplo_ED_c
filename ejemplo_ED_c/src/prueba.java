@@ -11,7 +11,8 @@
 public class prueba {
     int pp;
     
-    public prueba() {
+    public prueba(int p) {
+        this.pp=p;
     }
 
     public int getPp() {
