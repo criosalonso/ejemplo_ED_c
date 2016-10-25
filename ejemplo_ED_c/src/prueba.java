@@ -10,6 +10,7 @@
  */
 public class prueba {
     int pp;
+    int num;
     
     public prueba(int p) {
         this.pp=p;
