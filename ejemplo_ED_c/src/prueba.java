@@ -23,5 +23,10 @@ public class prueba {
     public void setPp(int pp) {
         this.pp = pp;
     }
+
+    @Override
+    public String toString() {
+        return "prueba{" + "pp=" + pp + ", num=" + num + '}';
+    }
     
 }
